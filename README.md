@@ -4,8 +4,21 @@
 - 🌱 I’m currently learning advanced Javascript
 - 🤔 I’m looking for Open Source collaboration
 - 💬 Ask me about **Web Development** and **JavaScript**; I'm happy to help
-- 📫 How to reach me: [My Personal Teitter] (https://twitter.com/ArmandoC0de)
+- 📫 How to reach me: [Twitter DMs] (https://twitter.com/ArmandoC0de)
 - ⚡ Fun fact: I'm a musician🎷
+
+<p align="center">Connect with me on these platforms c:</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/armando-cristiano-56905223a/)>
+    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="LinkedIn" alt="Linkedin Account" width="36" />
+  </a>
+  <a href="https://twitter.com/ArmandoC0de">
+    <img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" title="Twitter" alt="Twitter Account" width="38" />
+  </a>
+</p><br />
+
+
 
 </p>
  <br/>
