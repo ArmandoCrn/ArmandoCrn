@@ -1,4 +1,3 @@
-### Hello 👋🏻, I'm Armando c:
 ![github-header-image](https://user-images.githubusercontent.com/100308912/169642547-fa38652b-fe45-49bf-93b8-c3510ee26d5e.png)
 
 
