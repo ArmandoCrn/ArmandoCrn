@@ -5,7 +5,6 @@
 - 🤔 I’m looking for Open Source collaboration
 - 💬 Ask me about **Web Development** and **JavaScript**; I'm happy to help
 - 📫 How to reach me: [My Personal Teitter] (https://twitter.com/ArmandoC0de)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a musician🎷
 
 </p>
