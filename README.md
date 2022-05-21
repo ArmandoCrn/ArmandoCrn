@@ -10,7 +10,7 @@
 <p align="center">Connect with me on these platforms c:</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/armando-cristiano-56905223a/)>
+  <a href="https://www.linkedin.com/in/armando-cristiano-56905223a/">
     <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="LinkedIn" alt="Linkedin Account" width="36" />
   </a>
   <a href="https://twitter.com/ArmandoC0de">
