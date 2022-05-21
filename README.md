@@ -9,8 +9,6 @@
 - ⚡ Fun fact: I'm a musician🎷
 
 </p>
- 
- <br/>
  <br/>
  <h2>Tech Skills</h2>
  <p align="center">
