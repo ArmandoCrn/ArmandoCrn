@@ -1,5 +1,5 @@
 ### Hello 👋🏻, I'm Armando c:
-
+![Header](./github-header-image.png)
 
 - 🔭 I’m currently working on my personal project
 - 🌱 I’m currently learning advanced Javascript
