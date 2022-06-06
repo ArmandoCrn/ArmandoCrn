@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning advanced Javascript
 - 🤔 I’m looking for Open Source collaboration
 - 💬 Ask me about **Web Development** and **JavaScript**; I'm happy to help
-- 📫 How to reach me: [Twitter DMs] (https://twitter.com/ArmandoC0de)
+- 📫 How to reach me: [Twitter DMs](https://twitter.com/ArmandoC0de)
 - ⚡ Fun fact: I'm a musician🎷
 
 <p align="center">Connect with me on these platforms c:</p>
